@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+#Code 201 Reading notes
 
 You can use the [editor on GitHub](https://github.com/MFierro25/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
