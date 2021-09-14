@@ -3,7 +3,7 @@
 #### CH 1
 
   what is HTML used for?<br>
-    It is used to structure a page, it includes, headings, subheadings, titles, boodys and paragraphs.
+    It is used to structure a page, it includes, headings, subheadings, titles, boodys and paragraphs.<br>
    What are elements?<br>
     elements have opening and closing tags to nest information inside<br>
    How can you create a webpage?<br>
