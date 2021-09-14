@@ -3,7 +3,7 @@
 
 1. [class-01.md](https://github.com/MFierro25/reading-notes/blob/main/class-01.md)
 2. [class-02.md](https://github.com/MFierro25/reading-notes/blob/main/class-02.md)
-3.
+3. [class-03.md](https://github.com/MFierro25/reading-notes/blob/main/class-03.md)
 4.
 5.
 6.
