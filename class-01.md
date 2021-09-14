@@ -1,11 +1,11 @@
 ## HTML
 
 #### CH 1
-  what is HTML used for?
+  what is HTML used for?<br>
     It is used to structure a page, it includes, headings, subheadings, titles, boodys and paragraphs.
-   What are elements?
+   What are elements?<br>
     elements have opening and closing tags to nest information inside
-   How can you create a webpage?
+   How can you create a webpage?<br>
     On a text editor like Notepad or textwrangler and then save as html
 #### CH 8
   ID - can be used on elements to style them
