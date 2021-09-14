@@ -13,10 +13,10 @@
 
   ID - can be used on elements to style them<br>
   Class- can be used to style several elements<br>
-  <div> - group a set of elements<br>
-  <span> - acts like an inline equivelant of the div element<br>
-  <iframe> - little window that has been cut into the page<br>
-  <meta> - lives in head element and contains info about the page<br>
+  div - group a set of elements<br>
+  span - acts like an inline equivelant of the div element<br>
+  iframe - little window that has been cut into the page<br>
+  meta - lives in head element and contains info about the page<br>
   
 #### CH 17
     
