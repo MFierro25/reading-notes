@@ -7,7 +7,7 @@
 4. [class-04.md](https://github.com/MFierro25/reading-notes/blob/main/class-04.md)
 5. [Class-05.md](https://github.com/MFierro25/reading-notes/blob/main/class-05.md)
 6. [class-06.md](https://github.com/MFierro25/reading-notes/blob/main/class-06.md)
-7.
+7. [class-07.md](https://github.com/MFierro25/reading-notes/blob/main/class-07.md)
 8.
 9.
 10.
