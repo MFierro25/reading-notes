@@ -12,7 +12,7 @@
 9. [class-09.md](https://github.com/MFierro25/reading-notes/blob/main/class09.md)
 10. [class-10.md](https://github.com/MFierro25/reading-notes/blob/main/class10.md)
 11. [class-11.md](https://github.com/MFierro25/reading-notes/blob/main/class11.md)
-12. [class-12.md] (https://github.com/MFierro25/reading-notes/blob/main/class12-md)
-13.
+12. [class-12.md](https://github.com/MFierro25/reading-notes/blob/main/class12-md)
+13. [class-13.md](https://github.com/MFierro25/reading-notes/blob/main/Class13.md)
 14.
 15.
