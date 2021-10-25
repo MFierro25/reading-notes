@@ -21,4 +21,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 
 ## Code 301 - Intermediate Software Development
 
+1. [Class-01.md] (https://github.com/MFierro25/reading-notes/blob/main/301-class-01.md)
 
+## Things i want to Know more about
