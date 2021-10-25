@@ -1,5 +1,9 @@
-# Code 201 reading-notes
-### Daily Reading assignments
+# Reading-notes
+This has all my reading notes through my time and courses at CodeFellows.
+
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
 
 1. [class-01.md](https://github.com/MFierro25/reading-notes/blob/main/class-01.md)
 2. [class-02.md](https://github.com/MFierro25/reading-notes/blob/main/class-02.md)
