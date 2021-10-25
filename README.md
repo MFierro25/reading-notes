@@ -3,8 +3,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 
 ## Code 201 - Foundations of Software Development
 
-## Code 301 - Intermediate Software Development
-
 1. [class-01.md](https://github.com/MFierro25/reading-notes/blob/main/class-01.md)
 2. [class-02.md](https://github.com/MFierro25/reading-notes/blob/main/class-02.md)
 3. [class-03.md](https://github.com/MFierro25/reading-notes/blob/main/class-03.md)
@@ -20,3 +18,7 @@ This has all my reading notes through my time and courses at CodeFellows.
 13. [class-13.md](https://github.com/MFierro25/reading-notes/blob/main/Class13.md)
 14. [class-14A.md](https://github.com/MFierro25/reading-notes/blob/main/class14A.md)
 15. [class-14B.md](https://github.com/MFierro25/reading-notes/blob/main/Class-14B.md)
+
+## Code 301 - Intermediate Software Development
+
+
