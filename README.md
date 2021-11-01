@@ -26,5 +26,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 3. [Class-03.md](https://github.com/MFierro25/reading-notes/create/main/301-class-03.md)
 4. [Class-04.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-04.md)
 5. [Class-05.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-05.md)
+6. [Class-06.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-06.md)
 
 ## Things i want to Know more about
