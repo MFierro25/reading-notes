@@ -31,5 +31,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 8. [Class-08.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-08.md)
 9. [Class-09.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-09.md)
 10.[Class-10.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-10.md)
+11.[CLass-11.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-11.md)
 
 ## Things i want to Know more about
