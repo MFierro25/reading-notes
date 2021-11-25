@@ -36,6 +36,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 13. [Class-13.md](https://github.com/MFierro25/reading-notes/blob/main/301-Class-13-.md)
 14. [Class-14.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-14.md)
 
-## Code 401 - Python
+## Code 401 - Advanced Software Development
 1. [Pre-work Mindset](https://github.com/MFierro25/reading-notes/blob/main/401-prep.md)
 ## Things i want to Know more about
