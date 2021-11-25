@@ -37,5 +37,5 @@ This has all my reading notes through my time and courses at CodeFellows.
 14. [Class-14.md](https://github.com/MFierro25/reading-notes/blob/main/301-class-14.md)
 
 ## Code 401 - Python
-1. [Pre-work Mindset]
+1. [Pre-work Mindset](https://github.com/MFierro25/reading-notes/blob/main/401-prep.md)
 ## Things i want to Know more about
