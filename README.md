@@ -38,4 +38,5 @@ This has all my reading notes through my time and courses at CodeFellows.
 
 ## Code 401 - Advanced Software Development
 1. [Pre-work Mindset](https://github.com/MFierro25/reading-notes/blob/main/401-prep.md)
+2. [Pre-work Terminal](https://github.com/MFierro25/reading-notes/blob/main/401-terminal.md)
 ## Things i want to Know more about
