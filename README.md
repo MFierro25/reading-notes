@@ -42,4 +42,5 @@ This has all my reading notes through my time and courses at CodeFellows.
 3. [Class-01](https://github.com/MFierro25/reading-notes/blob/main/401-class-01.md)
 4. [Class-02](https://github.com/MFierro25/reading-notes/blob/main/401-class-02.md)
 5. [Class-03](https://github.com/MFierro25/reading-notes/blob/main/401-class-03.md)
+6. [Class-04](https://github.com/MFierro25/reading-notes/blob/main/401-class-04.md)
 ## Things i want to Know more about
