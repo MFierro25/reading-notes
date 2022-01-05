@@ -50,5 +50,6 @@ This has all my reading notes through my time and courses at CodeFellows.
 11. [Class-11](https://github.com/MFierro25/reading-notes/blob/main/401-class-11.md)
 12. [Class-12](https://github.com/MFierro25/reading-notes/blob/main/401-class-18.md)
 13. [CLass-19](https://github.com/MFierro25/reading-notes/blob/main/401-class.19.md)
+14. [Class-26](https://github.com/MFierro25/reading-notes/blob/main/401-class-26.md)
 
 ## Things i want to Know more about
